@@ -93,6 +93,7 @@ mod mockup;
 mod motion;
 mod navigation;
 mod network_quality;
+mod notification_mutes;
 mod notifications;
 mod orchestrator;
 mod osc52;
