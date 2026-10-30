@@ -277,6 +277,7 @@ embedded_icons! {
     "chart.svg",
     "check.svg",
     "chevron-down.svg",
+    "chevron-left.svg",
     "chevron-right.svg",
     "chevron-up.svg",
     "close.svg",
